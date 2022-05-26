@@ -69,6 +69,6 @@ The graph shown in Figure 5.7 represents the time taken to process the packets a
 Bringing the edge devices closer to the computing devices and to reduce the request pro- cessing time is the need of the hour, usage of fog networks is a viable solution. As the amount of data is rapidly increasing along with increase in the number of requests from the edge devices, the fog nodes might get overloaded ,to redistribute the load we tried to implement an effective load balancing algorithm which uses Q learning to select the optimal node to offload to.The fog network is implemented using a client-server architecture. The requests arriving at the fog node follow Poisson distribution and the processing rate of each fog node follows an exponential distribution.
 The future scope of this project will involve improving the methodology so that the Q- learning algorithm reduces the amount of time needed to select the best node and offloads the number of packets depending on the current overload probability of the fog node.
 
+<b><i>Youtube:</i></b> https://youtu.be/OYvGPZP88ro 
 
 Tags: Reinforcement Learning, Networking, Parallel Computing, OS
-Youtube: https://youtu.be/OYvGPZP88ro 
